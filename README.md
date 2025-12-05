@@ -7,7 +7,7 @@
 
 ## ━━ ✦ 🎖️ badges & trinkets ✦ ━━  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Trans%20Flag-5BCEFA?style=for-the-badge&logo=rust&logoColor=white&labelColor=F5A9B8&color=FFFFFF)
+![Rust](https://img.shields.io/badge/Rust-pastel%20pink-ffb6c1?style=for-the-badge&logo=rust&logoColor=white)
 ![Art Deco](https://img.shields.io/badge/Art%20Deco-gold?style=for-the-badge&logo=archlinux&logoColor=white)  
 ![Furry](https://img.shields.io/badge/Furry-%F0%9F%90%BE-lightpink?style=for-the-badge)  
 ![Identity](https://img.shields.io/badge/Transfemme%20%26%20Agender-🌸-purple?style=for-the-badge)  
