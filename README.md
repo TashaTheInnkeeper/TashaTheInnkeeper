@@ -26,22 +26,20 @@
 ---
 
 ## ━━ ✦ 📂 projects ✦ ━━  
-*(aka things that actually survived `git push`)*  
-
-- ░ **[deco‑widgets](https://example.com)** → geometric UI components with a 1920s flair  
-- ░ **[furrylib](https://example.com)** → playful Python utilities with paw‑print aesthetics  
+*(aka things that actually survived `git push`)*
 - ░ miscellaneous experiments in code, design, and identity  
 
 ---
 
 ## ━━ ✦ 📝 footnote of pride ✦ ━━  
-- crafted a silly‑elegant crawler that archived thousands of forgotten pages — preserving digital history like a Deco museum curator  
-
+:3
 ---
 
 ## ━━ ✦ 📡 goals ✦ ━━  
 ★ merge elegance with utility <br>  
 ☆ design a portfolio that feels like a Deco poster <br>  
 ✦ keep coding playful, inclusive, and timeless  
+☆ get the homelab stable
+✦ dabble in ethical hacking
 
 ---
