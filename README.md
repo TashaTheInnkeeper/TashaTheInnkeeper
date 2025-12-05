@@ -17,9 +17,10 @@
 ---
 
 ## ━━ ✦ 🦊 about me ✦ ━━  
-- lover of Deco lines & champagne‑coded commits 🥂  
-- furry‑adjacent, silly but polished 🐾  
-- transfemme & agender: identity woven into design choices  
+- Lover of Art Deco 🥂  
+- Furry🐾  
+- transfemme & agender
+  - (I accidentally clipped out of bounds on the gender spectrum) 
 - caffeine‑powered tinkerer ☕  
 
 ---
