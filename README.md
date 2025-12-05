@@ -1,4 +1,4 @@
-# ⋆⁺₊⋆ ━━━━⊱༒︎ •Hello, I'm Tasha :3• ༒︎⊰━━━━ ⋆⁺₊⋆
+# ⋆⁺₊⋆ ━━━━⊱༒︎ •Hello, I'm Tasha• ༒︎⊰━━━━ ⋆⁺₊⋆
 
 ### 🦢 transfemme & agender dev in the roaring 20s lounge  
 [🌐 personal site](https://example.com)  
