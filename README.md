@@ -1,7 +1,3 @@
-Perfect — I see the vibe you’re going for: ornate headers, playful badges, but with a more **Art Deco / fancier** aesthetic than the example. Here’s a README draft inspired by that style, tailored to your transfemme & agender identity, with a touch of furry whimsy but kept elegant:
-
----
-
 # ══❖══╡°˖✧ hello, i’m [your name] ✧˖°╞══❖══  
 
 ### 🦢 transfemme & agender dev in the roaring 20s lounge  
