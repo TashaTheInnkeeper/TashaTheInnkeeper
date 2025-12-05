@@ -1,50 +1,49 @@
-<div align="center">
-  <img height="375" src="https://github.com/WolfQuery/WolfQuery/raw/main/banner2.png"  />
-</div>
+Perfect — I see the vibe you’re going for: ornate headers, playful badges, but with a more **Art Deco / fancier** aesthetic than the example. Here’s a README draft inspired by that style, tailored to your transfemme & agender identity, with a touch of furry whimsy but kept elegant:
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=WolfQuery.WolfQuery&"  />
-</div>
+# ══❖══╡°˖✧ hello, i’m [your name] ✧˖°╞══❖══  
 
-###
+### 🦢 transfemme & agender dev in the roaring 20s lounge  
+[🌐 personal site](https://example.com)  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+---
 
-###
+## ━━ ✦ 🎖️ badges & trinkets ✦ ━━  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Art Deco](https://img.shields.io/badge/Art%20Deco-gold?style=for-the-badge&logo=archlinux&logoColor=white)  
+![Furry](https://img.shields.io/badge/Furry-%F0%9F%90%BE-lightpink?style=for-the-badge)  
+![Identity](https://img.shields.io/badge/Transfemme%20%26%20Agender-🌸-purple?style=for-the-badge)  
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-</div>
+🖤 *building things with elegance, geometry, and a dash of fur*  
 
-###
+---
 
+## ━━ ✦ 🦊 about me ✦ ━━  
+- lover of Deco lines & champagne‑coded commits 🥂  
+- furry‑adjacent, silly but polished 🐾  
+- transfemme & agender: identity woven into design choices  
+- caffeine‑powered tinkerer ☕  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WolfQuery&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WolfQuery&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## ━━ ✦ 📂 projects ✦ ━━  
+*(aka things that actually survived `git push`)*  
 
-<p align="left"><h2>About me</h2> <br>Hey there! I’m Tasha, also known as WolfQuery. A student and hobby programmer who loves exploring the world of code. Most of my projects revolve around game development using <em> Godot 4 </em>, but I also enjoy tinkering with <em>Python CLIs</em> and writing <em>bash scripts</em> to automate my workflow.<br><br>I’m passionate about Linux and use a <em> <a href=https://github.com/WolfQuery/arch-i3-dots> Arch Linux setup with i3 </a> </em> as my daily driver—customized for both efficiency and style.<br><be>
-  
-  > **Personal Motto:** “C’est la vie.”</p>
+- ░ **[deco‑widgets](https://example.com)** → geometric UI components with a 1920s flair  
+- ░ **[furrylib](https://example.com)** → playful Python utilities with paw‑print aesthetics  
+- ░ miscellaneous experiments in code, design, and identity  
 
-###
+---
 
-<p align="left">I also have a personal <a href=https://tashas-grimoire.vercel.app/> blog</a>.</p>
+## ━━ ✦ 📝 footnote of pride ✦ ━━  
+- crafted a silly‑elegant crawler that archived thousands of forgotten pages — preserving digital history like a Deco museum curator  
 
-###
+---
+
+## ━━ ✦ 📡 goals ✦ ━━  
+★ merge elegance with utility <br>  
+☆ design a portfolio that feels like a Deco poster <br>  
+✦ keep coding playful, inclusive, and timeless  
+
+---
